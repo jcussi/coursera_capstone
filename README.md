@@ -41,6 +41,7 @@ military 	    TRUE if the zip code is used by the US Military (lat/lng not avail
 timezone 	    The city's time zone in the tz database format. (e.g. America/Los_Angeles)
 
 ## Another sources
+https://www.scikit-yb.org/en/latest/api/cluster/elbow.html
 https://www.linkedin.com/pulse/applied-data-science-capstone-project-restaurant-wagner-mba
 https://towardsdatascience.com/strategic-location-for-establishing-an-asian-restaurant-c3aecf2496b1
 https://magnet.xataka.com/en-diez-minutos/verdad-densidad-poblacion-no-importa-total-sino-densidad-habitada-1
